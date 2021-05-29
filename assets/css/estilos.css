@@ -60,7 +60,7 @@ p, a {font-weight: 400;}
 }
 #index_banner .carousel-control-prev i,
 #index_banner .carousel-control-next i {
-  color: #6266ea !important;
+  color: #070808 !important;
   text-decoration: none;
   font-size: 4em;
 }
@@ -69,7 +69,7 @@ p, a {font-weight: 400;}
 }
 #index_banner .carousel-indicators li,
 #index_banner .carousel-indicators.active {
-  background-color: #6266ea !important;
+  background-color: #09090a !important;
   // las rayas de abajo del carrousel van de color azul
 }
 .service-wrapper .service-footer {
@@ -139,12 +139,12 @@ p, a {font-weight: 400;}
   width: 8rem;
 }
 .partner-wap {
-  background-color: #7276ec;
+  background-color: #080808;
   transition: 1s;
   cursor: pointer;
 }
 .partner-wap:hover {
-  background-color: #b1b3f5;
+  background-color: #2ffc06;
 }
 .why-us {
   background: rgb(239,239,253);
@@ -191,6 +191,6 @@ p, a {font-weight: 400;}
 }
 /* Footer */
 footer a.text-light:hover {
-  color: #bfbfbf !important;
+  color: #ec1616 !important;
   transition-duration: 0.15s;
 }
