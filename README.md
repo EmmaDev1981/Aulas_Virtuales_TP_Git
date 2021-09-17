@@ -1,8 +1,8 @@
-# TP Final - Codo a Codo Course
+# TP Final - Codo a Codo Bootcamp
 
-HTML, CSS, JavaScript.
+HTML, CSS, JavaScript technologies applied.
 
-Uso avanzado de @Media Query.
+Advance use of responsive @Media Queries.
 
 Test here: https://emmadev1981.github.io/Aulas_Virtuales_TP_Git/index.html
 
