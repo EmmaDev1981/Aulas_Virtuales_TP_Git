@@ -814,7 +814,6 @@ function isEmptyObj( obj ) {
 
 // -------------------------- CSS3 support -------------------------- //
 
-
 var docElemStyle = document.documentElement.style;
 
 var transitionProperty = typeof docElemStyle.transition == 'string' ?
