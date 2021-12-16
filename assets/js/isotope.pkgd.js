@@ -1,15 +1,9 @@
-/* jshint browser: true, strict: true, undef: true, unused: true */
-
 ( function( window, factory ) {
-  // universal module definition
-  /*jshint strict: false */ /* globals define, module, require */
   if ( typeof define == 'function' && define.amd ) {
-    // AMD
     define( 'jquery-bridget/jquery-bridget',[ 'jquery' ], function( jQuery ) {
       return factory( window, jQuery );
     });
   } else if ( typeof module == 'object' && module.exports ) {
-    // CommonJS
     module.exports = factory(
       window,
       require('jquery')
