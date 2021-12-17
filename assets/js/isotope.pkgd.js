@@ -39,7 +39,6 @@ function jQueryBridget( namespace, PluginClass, $ ) {
     return;
   }
 
-  // add option method -> $().plugin('option', {...})
   if ( !PluginClass.prototype.option ) {
     // option setter
     PluginClass.prototype.option = function( opts ) {
